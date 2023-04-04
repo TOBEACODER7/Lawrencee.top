@@ -11,6 +11,7 @@ const BLOG = {
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
+  runpath: 'https://run.lawrencee.top/',
   since: 2023, // If leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
